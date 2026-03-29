@@ -2,7 +2,7 @@
 from add import add
 from subtract import subtract
 from multiply import multiply
-from divide import divide
+from division import divide
 
 def calculator():
     print("Simple Calculator")
